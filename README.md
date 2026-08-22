@@ -14,7 +14,7 @@ Production Next.js portfolio for Data, AI and software engineering work.
 
 ## Features
 
-- Ashutosh.works-style editorial/minimal visual direction, implemented from scratch
+- minimal visual direction, implemented from scratch
 - Live featured repositories and repository metadata from `Sukumar-Elley`
 - Real resume PDF download
 - Animated portfolio statistics
